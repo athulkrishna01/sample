@@ -1,0 +1,2 @@
+A = "Athul"
+print(A)
