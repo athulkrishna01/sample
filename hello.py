@@ -1,2 +1,0 @@
-A = "Athul"
-print(A)
